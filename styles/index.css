@@ -1,0 +1,18 @@
+*{
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button{
+    color: white;
+    font-size: larger;
+    size: 100px;
+    padding: 10px;
+    cursor: pointer;
+    background-color: rgb(89, 137, 226);
+}
